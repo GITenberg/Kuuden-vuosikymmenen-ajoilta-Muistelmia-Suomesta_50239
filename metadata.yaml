@@ -1,4 +1,5 @@
 _repo: Kuuden-vuosikymmenen-ajoilta-Muistelmia-Suomesta_50239
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Ivalo, Santeri
@@ -7,12 +8,17 @@ contributor:
     gutenberg_agent_id: '31820'
     url: http://www.gutenberg.org/2009/agents/31820
     wikipedia: http://fi.wikipedia.org/wiki/Santeri_Ivalo
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schauman, August
     gutenberg_agent_id: '45769'
     url: http://www.gutenberg.org/2009/agents/45769
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50239#Kuuden-vuosikymmenen-ajoilta-Muistelmia-Suomesta
 gutenberg_issued: '2015-10-17'
 gutenberg_type: Text
 identifiers:
